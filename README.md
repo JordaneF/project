@@ -24,9 +24,8 @@ The PNG files "KPI directeur" and "KPI managers et employés" are excerpts from 
 # File [2025-10]_Projet Température Terrestre.pbix
 This file represents my Earth temperature project completed during my Data Analyst training at DataScientest.
 The purpose of this dashboard is to present analysis results (NASA data) on global warming through different tools:
-
-LOTI for land-based data collection;
-AIRS for satellite measurements in the lower troposphere.
+- LOTI for land-based data collection;
+- AIRS for satellite measurements in the lower troposphere.
 
 The PNG files "Variation de température 2003-2024" and "LOTI temperature" are excerpts highlighting the different analytical perspectives.
 Finally, the PDF file "Rapport final_Projet température terrestre_Jordane FANTIN" constitutes the comprehensive project report.
