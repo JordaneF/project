@@ -13,3 +13,4 @@ Le but de ce dashboard est de présenter les résultats d'analyse (données de l
 - AIRS pour le relevé satellitaire dans la troposphère basse.
 
 Les fichiers PNG "Variation de température 2003-2024" et "LOTI temperature" sont des extraits mettant en exergue les différents angles d'analyse.
+Enfin, le fichier PDF "Rapport final_Projet température terrestre_Jordane FANTIN" constitue le rapport exhaustif du projet.
